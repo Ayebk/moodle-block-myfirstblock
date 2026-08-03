@@ -21,7 +21,7 @@ Displays a block on the Moodle dashboard showing the current number of courses o
 
 ## Status
 
-This is an early-stage learning project. Next steps: add a settings page, custom capability, and a dedicated database table.
+This is an early-stage learning project.
 
 ## Requirements
 
